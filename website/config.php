@@ -11,7 +11,7 @@ function config($key = '')
         'name' => 'Simple PHP Website',
         'nav_menu' => [
             '' => 'Home',
-            '/ProjectEdureka/website/content/about-us.php' => 'About Us',
+            'ProjectEdureka/website/content/about-us.php' => 'About Us',
             'ProjectEdureka/website/content/products.php' => 'Products',
             'ProjectEdureka/website/content/contact.php' => 'Contact',
         ],
